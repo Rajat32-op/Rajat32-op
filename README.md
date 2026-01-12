@@ -1,122 +1,122 @@
 # Rajat Hegde
 
-**Software Engineer | Flutter • React • Supabase • Systems Design**
+**B.Tech in Computational Engineering | Full-Stack Developer | ML Engineer**
 
-📍 India  
-📧 your@email.com  
-🌐 https://yourportfolio.com  
-💼 https://linkedin.com/in/yourname  
-
----
-
-## 🚀 About Me
-I am a software engineer focused on building scalable full-stack applications using Flutter, React, and modern backend systems. I enjoy solving real-world problems with clean architecture, efficient APIs, and strong data models.
-
-I have experience building authentication systems, booking platforms, role-based dashboards, and cloud-native applications using Supabase, PostgreSQL, and Docker.
+📍 Hyderabad, India  
+📧 rajathegde2006@gmail.com  
+📞 +91-8088952606  
+🔗 GitHub | LinkedIn  
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
+I am a B.Tech student in Computational Engineering at IIT Hyderabad with strong experience in full-stack web development and machine learning. I have built real-time applications using React, Node.js, MongoDB, Supabase, and Socket.IO, and developed deep learning models using TensorFlow and Keras.
+
+I enjoy designing scalable systems, writing clean backend APIs, and building production-ready web and mobile applications.
+
+---
+
+## 🛠️ Technical Skills
 
 **Frontend**
-- Flutter
-- React, Next.js
-- TypeScript, JavaScript
+- React.js
+- TypeScript
 - Tailwind CSS
 
 **Backend**
+- Node.js
+- Express.js
+- MongoDB
 - Supabase
-- PostgreSQL
 - REST APIs
-- Edge Functions
+- Socket.IO
 
-**DevOps & Tools**
+**Machine Learning**
+- TensorFlow
+- Keras
+- CNNs (U-Net)
+
+**Programming**
+- C++
+- JavaScript
+
+**Tools**
 - Git & GitHub
-- Docker
-- Linux (Pop!_OS)
-- CI/CD
-
-**Core CS**
-- Data Structures & Algorithms
-- System Design
-- Database Design
-- Operating Systems
+- Linux
+- OpenAI API
 
 ---
 
-## 📂 Projects
+## 💼 Experience
 
-### 🟢 Village Booking App
-A full-stack booking platform for a local village.
-
-**Features**
-- Phone-number based authentication
-- Role based access (User / Worker / Admin)
-- Booking creation & approval flow
-- Session restore and persistent login
-- Secure database with RLS
-
-**Tech Used**
-- Flutter
-- Supabase (Auth, Postgres, RLS)
-- Edge Functions
+### Eventzx — Software Developer  
+*Hyderabad | Nov 2025 – Present*
+- Built a full-featured event discovery and social media platform using **React (TypeScript)** and **Supabase**  
+- Implemented **event posting, joining, real-time chat, friend requests, and group formation** using SQL data modeling  
+- Currently developing a **Flutter companion app** to improve user engagement  
 
 ---
 
-### 🟢 Developer Club Website
-A responsive club website with events, timelines, and animations.
-
-**Features**
-- Interactive event cards
-- Animated timelines
-- Dark mode UI
-- Responsive layouts
-
-**Tech Used**
-- Next.js
-- Tailwind CSS
-- Framer Motion
-- TypeScript
+### Lambda — Software Development Club, IIT Hyderabad  
+*Jun 2025 – Present*
+- Worked on **3+ web and app development projects** in a team environment  
+- Contributed to **code reviews, feature planning, and deployments**  
+- Improved collaboration and production delivery experience  
 
 ---
 
-## 🧠 What I’m Good At
+## 📚 Education
 
-- Designing database schemas with proper relationships
-- Handling authentication & session management
-- Writing clean, maintainable UI code
-- API integration & backend logic
-- Debugging Linux and dev environments
+**Indian Institute of Technology Hyderabad**  
+Bachelor of Technology in Computational Engineering *(2024 – 2028)*  
+
+- Relevant Courses:
+  - Data Structures and Applications
+  - Operating Systems
+  - DBMS  
+- **CGPA: 8.7**
 
 ---
 
-## 📚 Learning & Interests
+## 🚀 Projects
 
-- Distributed systems
-- System design interviews
-- Security and compliance
-- DevOps automation
+### 🟢 Intellecta — Developer Social Platform  
+*June 2025 – August 2025*
+- Built a collaborative platform for developers to **share code, ask questions, and discuss technical topics**  
+- Implemented **real-time chat** and **syntax-highlighted code sharing**  
+- Frontend: React.js, Tailwind CSS  
+- Backend: Node.js, Express.js, MongoDB, Socket.IO  
+- Designed for **community engagement, peer feedback, and showcasing work**
+
+---
+
+### 🟢 Image Colourization Model  
+*Oct 2025 – Nov 2025*
+- Developed a **U-Net based CNN** to automatically colorize grayscale images  
+- Trained using **TensorFlow/Keras**, achieving **96% accuracy**  
+- Deployed the model as a **web application using Flask**
+
+---
+
+## 📜 Certifications
+
+- **Machine Learning Specialization** — Stanford University (Coursera) – May 2025  
+- **Accenture Software Engineering Job Simulation** — Forage – Apr 2025  
 
 ---
 
 ## 🏆 Achievements
 
-- Built and deployed production-grade Flutter apps
-- Active contributor to open source
-- Experience with CTFs and security events
+- Solved **300+ LeetCode problems** — Rating **1500+**  
+- **CodeChef Rating: 1600+**  
+- **Codeforces Rating: 1400+**  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajathegde&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajathegde&layout=compact)
 
 ---
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/yourname
-- Portfolio: https://yourportfolio.com
-- Email: your@email.com
